@@ -8,8 +8,10 @@ The strategy is to increase your score by hitting to get close to 21 (but not ov
 consideration what the dealer’s score could be.
 <p align="center">
 <div align="center">
+  
 ![gui1](https://user-images.githubusercontent.com/92521186/194652088-cb0dc442-4825-47a9-ba5d-c6b3dadbc975.PNG)
 
 ![gui2](https://user-images.githubusercontent.com/92521186/194652104-30fd8408-be70-4ef3-9221-bd4446ff898a.PNG)
+
 </div>
 </p>
